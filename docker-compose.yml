@@ -3,10 +3,10 @@ services:
   workerdisk:
     build: .
     environment:
-      - API_ID=${16734393}
-      - API_HASH=${e49a46ce63b238c429d618c4aa37f52e}
-      - TOKEN=${5958312899:AAHiq4rgI9nJF0daMC5af4Wf_off-nQQHR8}
-      - DB_NAME=${anurag}
+      - API_ID=${API_ID}
+      - API_HASH=${HASH}
+      - TOKEN=${TOKEN}
+      - DB_NAME=${DB_NAME}
       - DB_URL=${DB_URL}
-      - CHANNEL=${-1001744824600}
-      - ADMIN=${5543917190}
+      - CHANNEL=${CHANNEL}
+      - ADMIN=${ADMIN}

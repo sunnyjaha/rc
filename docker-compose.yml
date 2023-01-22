@@ -1,12 +1,9 @@
 version: "3.9"
+
 services:
-  workerdisk:
+  app:
     build: .
-    environment:
-      - API_ID=${API_ID}
-      - API_HASH=${HASH}
-      - TOKEN=${TOKEN}
-      - DB_NAME=${DB_NAME}
-      - DB_URL=${DB_URL}
-      - CHANNEL=${CHANNEL}
-      - ADMIN=${ADMIN}
+    command: python3 bot.py
+    restart: on-failure
+    ports:
+      - "85:85"

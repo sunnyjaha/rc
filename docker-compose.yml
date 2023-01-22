@@ -3,7 +3,7 @@ services:
   workerdisk:
     build: .
     environment:
-      - API_ID=${API_ID}
+      - API_ID=16734393
       - API_HASH=${HASH}
       - TOKEN=${TOKEN}
       - DB_NAME=${DB_NAME}

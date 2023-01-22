@@ -10,7 +10,7 @@ async def upgrade(bot,update):
 	
 	**VIP** 
 	Daily  Upload  limit unlimited
-	Price Rs 100  🇮🇳/🌎 2$  per Month
+	Price Rs 50  🇮🇳/🌎 1$  per Month
 	
 	
 	Pay Using Upi I'd ```amrobots@barodampay```
@@ -32,7 +32,7 @@ async def upgradecm(bot,message):
 	
 	**VIP** 
 	Daily  Upload  limit unlimited 
-	Price Rs 100  🇮🇳/🌎 2$  per Month
+	Price Rs 50  🇮🇳/🌎 1$  per Month
 	
 	
 	Pay Using Upi I'd ```amrobots@barodampay```

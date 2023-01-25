@@ -46,7 +46,7 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4x-y8J?referralCode=RFr_Ev)
 ### 💜 Heroku - simplest way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://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@github.com/anuragmirrorleech/RenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/sunnyjaha/rc)
 
 
 # How To Use Admin Command 
